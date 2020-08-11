@@ -9,7 +9,7 @@
   box-sizing: border-box;  
 }
 
-.atm {
+.atm .screen{
   width: 60%;
   background-color: aliceblue; 
 }
