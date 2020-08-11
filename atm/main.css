@@ -1,0 +1,25 @@
+.atm{  
+  margin: 0;
+}
+
+.atm .screen,
+.atm .controls{
+  height: 100%;
+  float: left;
+  box-sizing: border-box;  
+}
+
+.atm {
+  width: 60%;
+  background-color: aliceblue; 
+}
+
+.atm .controls{
+  width: 40%;
+  background-color: antiquewhite;
+}
+
+.atm .controls .keypad tr td{
+  width: 20px;
+  height: 20px;
+}
