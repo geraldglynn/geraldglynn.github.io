@@ -9,7 +9,15 @@
 
   .screen{
     width: 60%;
-    background-color: aliceblue; 
+    background-color: aliceblue;
+
+    .value-input{
+      width: 200px;
+      height: 50px;
+      margin-top: 200px;
+      margin: auto;
+      font-size: 100px;
+    }
   }
 
   .controls{
@@ -19,7 +27,7 @@
     .keypad {
       margin: auto;
       margin-top: 100px;
-            
+
       tr td{
         width: 50px;
         height: 50px;
