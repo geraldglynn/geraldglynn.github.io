@@ -1,0 +1,7 @@
+.atm{margin:0}
+.atm .controls,.atm .screen{height:100%;float:left;box-sizing:border-box}
+.atm .screen{width:60%;background-color:#f0f8ff}
+.atm .screen .value-input{width:200px;height:50px;margin-top:200px;margin:auto;font-size:100px}
+.atm .controls{width:40%;background-color:#faebd7}
+.atm .controls .keypad{margin:auto;margin-top:100px}
+.atm .controls .keypad tr td{width:50px;height:50px;font-family:'Courier New',Courier,monospace;font-size:50px}
